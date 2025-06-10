@@ -1,2 +1,2 @@
 [build]
-builder = "paketobuildpacks/builder:base"
+builder = "heroku/builder:22"
